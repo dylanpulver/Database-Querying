@@ -1,1 +1,11 @@
+**Jupyter Notebook Querying**
+
+The notebook in this repository is a template for easily connecting to any database, 
+converting any SQL query to a pandas dataframe, munging the resulting data with pandas, 
+converting the resulting pandas dataframe to a csv file, and then sending that csv file directly to a slack channel.
+
+The notebook is broken up into steps with headers.
+In order to use the notebook, the following must be specified within the notebook:
+database credentials, sql query, csv filename, 
+slack channel and slack token (create a new slack app here: https://api.slack.com/apps )
 
