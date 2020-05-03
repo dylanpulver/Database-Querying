@@ -1,4 +1,4 @@
-**Jupyter Notebook Querying**
+Jupyter Notebook Querying
 
 The notebook in this repository is a template for easily connecting to any database, 
 converting any SQL query to a pandas dataframe, munging the resulting data with pandas, 
